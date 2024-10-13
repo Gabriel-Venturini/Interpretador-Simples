@@ -1,9 +1,14 @@
+README.md
 setup.py
 BasicInterpreter.egg-info/PKG-INFO
 BasicInterpreter.egg-info/SOURCES.txt
 BasicInterpreter.egg-info/dependency_links.txt
 BasicInterpreter.egg-info/top_level.txt
 app/__init__.py
-app/reader.py
+app/command_divider.py
+app/commands.py
+app/document_reader.py
+app/interpreter.py
 test/__init__.py
+test/commandReaderTest.py
 test/readerTest.py
